@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jonasfeuss
 - 👀 I’m interested in Web & Software development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & Swift
 - 📫 You can reach me at mail@JonasFeuss.de
